@@ -1,4 +1,5 @@
 nsightvideo.com,171811526,DIRECT,fd25240165056a01
+nsightvideo.com,171811526,DIRECT,fd25240165056a01
 danoler.com,1355,RESELLER
 richaudience.com,33v4ExBhDq,RESELLER
 bidmatic.io,b-bf91c,RESELLER
