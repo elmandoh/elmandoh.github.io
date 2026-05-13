@@ -1,3 +1,14 @@
+nsightvideo.com,171811526,DIRECT,fd25240165056a01
+danoler.com,1355,RESELLER
+richaudience.com,33v4ExBhDq,RESELLER
+bidmatic.io,b-bf91c,RESELLER
+ppc.buzz,b7b16ecf8ca53723593894116071700c36872,RESELLER
+rubiconproject.com,17184,RESELLER,0bfd66d529a55807
+appnexus.com,6933,RESELLER,f5ab79cb980f11d1
+triplelift.com,10504,RESELLER,6c33edb13117fd86
+smartadserver.com,4242,RESELLER
+spotim.market,pub_HL043vHonxlD,RESELLER,077e5f709d15bdbb
+gravite.net,9541b9efc07b8fcdc328c37902161a6b,RESELLER,b3bb5a9415a362a1
 nsightvideo.com,35,DIRECT,fd25240165056a01
 
 
