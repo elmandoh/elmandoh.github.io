@@ -11,6 +11,9 @@ bidease.com, bidease_seller_8, RESELLER
 bidease.com, bidease_seller_41, RESELLER
 
 
+# Chocolate Platform
+chocolateplatform.com, 5219, RESELLER, 83525539
+
 # Unity Ads
 adagio.io, 1522, RESELLER
 adform.com, 3400, RESELLER, 9f5210a2f0999e32
